@@ -1,1 +1,340 @@
-{}
+{
+  "80010228;entityType=Attraction": {
+    "name": "TriceraTop Spin",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Fly high on a dinosaur around a twirling tin-toy top at this delightful carnival-inspired attraction.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/triceratop-spin/tricera-top-spin-00.jpg?1548797671781",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/triceratop-spin/tricera-top-spin-00-sq.jpg?1548797671782",
+    "canFp": false,
+    "land": "DinoLand U.S.A.",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair": "Must Transfer to Wheelchair"
+      },
+      "thrillFactor": {
+        "slow-rides": "Slow Rides",
+        "spinning": "Spinning"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "preschoolers": "Preschoolers"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "80010150;entityType=Attraction": {
+    "name": "It's Tough to be a Bug!",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Discover what it’s like to be a bug during this 3D film and live show inspired by the Disney and Pixar film <em>A Bug’s Life</em>.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/its-tough-to-be-a-bug/its-tough-to-be-a-bug-00.jpg?1573157907818",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/its-tough-to-be-a-bug/its-tough-to-be-a-bug-00-sq.jpg?1573157907818",
+    "canFp": true,
+    "land": "Discovery Island",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "serviceAnimals": {
+        "service-animals": "Permitted with Caution",
+        "service-animals-with-caution": "Due to the nature of the experience, Guests with service animals should check with a Cast Member at the attraction for boarding information."
+      },
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "reflective-captioning": "Reflective Captioning",
+        "assistive-listening": "Assistive Listening",
+        "translation-devices": "Language Translation Devices"
+      },
+      "thrillFactor": {
+        "dark": "Dark",
+        "scary": "Scary",
+        "loud": "Loud"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "stage-shows": "Stage Shows",
+        "indoor-attractions": "Indoor"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "26068;entityType=Attraction": {
+    "name": "Expedition Everest - Legend of the Forbidden Mountain",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Careen through the Himalayan mountains on a speeding train while avoiding the clutches of the mythic Abominable Snowman.<p><strong>Disney PhotoPass</strong><br /> Disney PhotoPass is available at this attraction to capture your picture. View your photos with this app and download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/expedition-everest/expedition-everest-day-00.jpg?1574352902937",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/expedition-everest/expedition-everest-day-00-sq.jpg?1574352902937",
+    "canFp": true,
+    "land": "Asia",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory",
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "no-service-animals": "Not Permitted",
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "mobilityDisabilities": {
+        "transfer-from-wheelchair-ecv": "Must Transfer from Wheelchair/ECV"
+      },
+      "thrillFactor": {
+        "thrill-rides": "Thrill Ride",
+        "big-drops": "Big Drops",
+        "dark": "Dark"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "44-inches-112-cm-or-taller": "44\" (112cm) or taller"
+      }
+    }
+  },
+  "18665186;entityType=Attraction": {
+    "name": "Avatar Flight of Passage",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Fly on the back of a mountain banshee during an exhilarating, 3D ride above this vast moon, only at <a href=\"https://disneyworld.disney.go.com/destinations/animal-kingdom/pandora-world-of-avatar/\">Pandora – The World of Avatar</a>.<p>Please note: the seating and restraints of this attraction may prohibit Guests of certain body shapes or sizes from riding.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/flight-of-passage/flight-of-passage-in-ride-16x9.jpg?1565384082499",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/flight-of-passage/flight-of-passage-in-ride-1x1.jpg?1565384082499",
+    "canFp": true,
+    "land": "Pandora – The World of Avatar",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory",
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "no-service-animals": "Not Permitted",
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "experienceType": {
+        "mobile-playapp-enabled": "PlayApp Enabled WDW/DLR"
+      },
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair-then-vehicle": "Must transfer to standard wheelchair, and then to ride vehicle"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "video-captioning": "Video Captioning",
+        "assistive-listening": "Assistive Listening"
+      },
+      "thrillFactor": {
+        "thrill-rides": "Thrill Ride"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "new": "What's New",
+        "indoor-attractions": "Indoor",
+        "avatar": "Avatar"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "44-inches-112-cm-or-taller": "44\" (112cm) or taller"
+      }
+    }
+  },
+  "80010157;entityType=Attraction": {
+    "name": "Kilimanjaro Safaris",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Ride off in an open-air vehicle for a day or evening tour of a lush African savanna, home to real-live exotic animals.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/kilimanjaro-safaris/kilimanjaro-safaris-00.jpg?1575475620572",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/kilimanjaro-safaris/kilimanjaro-safaris-00-sq.jpg?1575475620572",
+    "canFp": true,
+    "land": "Africa",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory",
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "service-animals": "Permitted with Caution",
+        "service-animals-with-caution": "Due to the nature of the experience, Guests with service animals should check with a Cast Member at the attraction for boarding information."
+      },
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair": "Must Transfer to Wheelchair"
+      },
+      "hearingandVisualDisability": {
+        "video-captioning": "Video Captioning",
+        "assistive-listening": "Assistive Listening",
+        "translation-devices": "Language Translation Devices"
+      },
+      "thrillFactor": {
+        "slow-rides": "Slow Rides"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "animal-encounters-attractions": "Animal Encounters",
+        "classic": "Classics"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "17421326;entityType=Entertainment": {
+    "name": "Meet Favorite Disney Pals at Adventurers Outpost",
+    "type": "Entertainment",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Halt your adventuring to enjoy a magical meet ‘n’ greet with Mickey and Minnie at their exploration headquarters.<p><strong>FastPass+ Service Offered</strong><br /> For more options, make your FastPass+ selections early.</p><p><strong>Disney Photopass</strong><br /> Disney PhotoPass is available at this experience to capture your picture. View your photos with this app and download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/entertainment/animal-kingdom/character-meet-disney-pals-adventurers-outpost/adventurers-outpost-mickey-minnie-16x9.jpg?1576270318726",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/animal-kingdom/character-meet-disney-pals-adventurers-outpost/adventurers-outpost-mickey-minnie-1x1.jpg?1576270318727",
+    "canFp": true,
+    "land": "Discovery Island",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "entertainmentType": {
+        "character-experiences": "Character Experiences"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "indoor": "Indoor",
+        "mickey-friends-entertainments": "Mickey & Friends"
+      },
+      "age": {
+        "kids": "Kids",
+        "preschoolers": "Preschoolers"
+      }
+    }
+  },
+  "18665185;entityType=Attraction": {
+    "name": "Na'vi River Journey",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Take a mystical journey by boat deep into Pandora’s fantastic glowing bioluminescent rainforest.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/navi-river-journey/pandora-navi-river-journey-full-boat-16x9.jpg?1556817091521",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/navi-river-journey/pandora-navi-river-journey-full-boat-1x1.jpg?1556817091522",
+    "canFp": true,
+    "land": "Pandora – The World of Avatar",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "mobilityDisabilities": {
+        "transfer-from-wheelchair-ecv": "Must Transfer from Wheelchair/ECV"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "handheld-captioning": "Handheld Captioning"
+      },
+      "serviceAnimals": {
+        "no-service-animals": "Not Permitted"
+      },
+      "thrillFactor": {
+        "slow-rides": "Slow Rides"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "new": "What's New",
+        "indoor-attractions": "Indoor",
+        "avatar": "Avatar"
+      },
+      "age": {
+        "all-ages": "All Ages"
+      }
+    }
+  },
+  "80010123;entityType=Attraction": {
+    "name": "DINOSAUR",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Take off on a scary, prehistoric tour aboard a rip-roaring Time Rover to save a dinosaur from extinction.<p><strong>Disney PhotoPass</strong><br /> Disney PhotoPass is available at this attraction to capture your picture. View your photos with this app and download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/dinosaur/dinosaur-00.jpg?1578996553753",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/dinosaur/dinosaur-00-sq.jpg?1578996553754",
+    "canFp": true,
+    "land": "DinoLand U.S.A.",
+    "parkId": "AK",
+    "park": "Disney's Animal Kingdom Theme Park",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory",
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "no-service-animals": "Not Permitted",
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "mobilityDisabilities": {
+        "transfer-from-wheelchair-ecv": "Must Transfer from Wheelchair/ECV"
+      },
+      "hearingandVisualDisability": {
+        "video-captioning": "Video Captioning",
+        "assistive-listening": "Assistive Listening",
+        "translation-devices": "Language Translation Devices"
+      },
+      "thrillFactor": {
+        "thrill-rides": "Thrill Ride",
+        "small-drops": "Small Drops",
+        "dark": "Dark",
+        "scary": "Scary"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "indoor-attractions": "Indoor"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "40-inches-102-cm-or-taller": "40” (102cm) or taller"
+      }
+    }
+  }
+}

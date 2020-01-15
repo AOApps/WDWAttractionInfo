@@ -1,1 +1,538 @@
-{}
+{
+  "80010193;entityType=Attraction": {
+    "name": "Star Tours – The Adventures Continue",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Make the jump to hyperspace as you ride aboard a 3D, motion-simulated space flight to popular destinations from <em>Star Wars</em>.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/star-tours-the-adventures-continue/star-tours-00.jpg?1576854711940",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/star-tours-the-adventures-continue/star-tours-00-sq.jpg?1576854711940",
+    "canFp": true,
+    "land": "Echo Lake",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory",
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "no-service-animals": "Not Permitted",
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair-then-vehicle": "Must transfer to standard wheelchair, and then to ride vehicle"
+      },
+      "hearingandVisualDisability": {
+        "video-captioning": "Video Captioning",
+        "handheld-captioning": "Handheld Captioning"
+      },
+      "thrillFactor": {
+        "small-drops": "Small Drops"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "indoor-attractions": "Indoor",
+        "star-wars-attractions": "Star Wars"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "40-inches-102-cm-or-taller": "40” (102cm) or taller"
+      }
+    }
+  },
+  "19276204;entityType=Attraction": {
+    "name": "Lightning McQueen's Racing Academy – Now Open!",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Get pumped for a high-octane, first-of-its-kind show that’ll put you right in the middle of the Disney and Pixar <em>Cars</em> universe.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/attractions/hollywood-studios/lightning-mcqueens-racing-academy/cruz-hero-16x9.jpg?1570327273591",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/attractions/hollywood-studios/lightning-mcqueens-racing-academy/cruz-hero-1x1.jpg?1570327273592",
+    "canFp": false,
+    "land": "Sunset Boulevard",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "age": {
+        "all-ages": "All Ages"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "18904172;entityType=Attraction": {
+    "name": "Alien Swirling Saucers",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Board your toy rocket and hang on tight as the Aliens take you on a spin through space—only at Toy Story Land!",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/attractions/hollywood-studios/alien-swirling-saucers/toy-story-alien-swirling-saucers-portrait-family-16x9.jpg?1573076628180",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/attractions/hollywood-studios/alien-swirling-saucers/toy-story-aliens-swirliing-saucers-entrance-1x1.jpg?1573076628180",
+    "canFp": true,
+    "land": "Toy Story Land",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "transfer-from-wheelchair-ecv": "Must Transfer from Wheelchair/ECV"
+      },
+      "serviceAnimals": {
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "thrillFactor": {
+        "spinning": "Spinning"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "new": "What's New"
+      },
+      "age": {
+        "all-ages": "All Ages"
+      },
+      "height": {
+        "32-inches-81-cm-or-taller": "32\" (81cm) or taller"
+      }
+    }
+  },
+  "18669338;entityType=Entertainment": {
+    "name": "BB-8 Astromech on Duty",
+    "type": "Entertainment",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Say hello to this excitable sidekick in the ship's security sector. Hunted by the First Order and loyal to the Resistance, BB-8 held the final clue to finding Jedi Master Luke Skywalker in the film <em>Star Wars: The Force Awakens</em>. <p><strong>Disney Photopass</strong><br /> Disney PhotoPass Photographers are available at this experience to capture your special moment! You can view your photos with this app and then download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/hollywood-studios/character-meet-b-b-8/character-meet-b-b-8-star-wars-launch-bay_bb-8-family-16x9.jpg?1567051916148",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/hollywood-studios/character-meet-b-b-8/character-meet-b-b-8-star-wars-launch-bay_bb-8-family-1x1.jpg?1567051916148",
+    "canFp": false,
+    "land": "Animation Courtyard",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "entertainmentType": {
+        "character-experiences": "Character Experiences"
+      },
+      "interests": {
+        "new": "What's New",
+        "indoor-attractions": "Indoor",
+        "star-wars-entertainment": "Star Wars",
+        "star-wars-attractions": "Star Wars"
+      },
+      "age": {
+        "all-ages": "All Ages"
+      }
+    }
+  },
+  "18189398;entityType=Entertainment": {
+    "name": "Star Wars Launch Bay: Encounter Darth Vader",
+    "type": "Entertainment",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Prepare yourself for an epic run-in with the Dark Lord of the Sith.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/entertainment/hollywood-studios/character-meet-darth-vader-star-wars-launch-bay/darth-vader-pose-16x9.jpg?1568653540456",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/hollywood-studios/character-meet-darth-vader-star-wars-launch-bay/darth-vader-pose-1x1.jpg?1568653540456",
+    "canFp": false,
+    "land": "Animation Courtyard",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "entertainmentType": {
+        "character-experiences": "Character Experiences"
+      },
+      "interests": {
+        "indoor": "Indoor",
+        "classic-characters-entertainments": "Classic Characters",
+        "star-wars-entertainment": "Star Wars"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      }
+    }
+  },
+  "80010151;entityType=Attraction": {
+    "name": "Muppet*Vision 3D",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Experience the magic of the Muppets during a hilarious, eye-popping film and live-action extravaganza.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/attractions/hollywood-studios/muppet-vision-3d/muppet-vision-3d-gallery02.jpg?1554141946452",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/gallery/attractions/hollywood-studios/muppet-vision-3d/muppet-vision-3d-gallery02-sq.jpg?1554141946452",
+    "canFp": true,
+    "land": "Grand Avenue",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "video-captioning": "Video Captioning",
+        "assistive-listening": "Assistive Listening",
+        "translation-devices": "Language Translation Devices"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "stage-shows": "Stage Shows",
+        "indoor-attractions": "Indoor"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "18368385;entityType=Entertainment": {
+    "name": "Celebrity Spotlight",
+    "type": "Entertainment",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Stop by the Celebrity Spotlight at Disney’s Hollywood Studios to hang with your fave frosty friend from Disney's <em>Frozen</em>!<p><strong>Disney Photopass</strong><br /> Disney PhotoPass is available at this Character Greeting to take your picture. View your photos with this app and download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/hollywood-studios/character-meet-olaf-frozen/character-meet-olaf-frozen-03.jpg?1547771041663",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/hollywood-studios/character-meet-olaf-frozen/character-meet-olaf-frozen-03-sq.jpg?1547771041664",
+    "canFp": false,
+    "land": "Echo Lake",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "entertainmentType": {
+        "character-experiences": "Character Experiences"
+      },
+      "interests": {
+        "frozen-entertainment": "Frozen"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      }
+    }
+  },
+  "209857;entityType=Attraction": {
+    "name": "Toy Story Mania!",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Ride 'n' blast moving targets at this midway-style, 4D shootin’ game starring popular characters—only at Toy Story Land!",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/toy-story-mania/toy-story-mania-00.jpg?1573146190798",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/toy-story-mania/toy-story-mania-00-sq.jpg?1573146190798",
+    "canFp": true,
+    "land": "Toy Story Land",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "serviceAnimals": {
+        "service-animals": "Permitted with Caution",
+        "service-animals-with-caution": "Due to the nature of the experience, Guests with service animals should check with a Cast Member at the attraction for boarding information."
+      },
+      "experienceType": {
+        "mobile-playapp-enabled": "PlayApp Enabled WDW/DLR"
+      },
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair": "Must Transfer to Wheelchair"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "video-captioning": "Video Captioning"
+      },
+      "thrillFactor": {
+        "spinning": "Spinning"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "interactive": "Interactive",
+        "indoor-attractions": "Indoor",
+        "play-disney-parks": "Play Disney Parks"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "18904138;entityType=Attraction": {
+    "name": "Slinky Dog Dash",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Take off on a family-friendly coaster as Slinky Dog's coils twist around curves, hills and drops—only at Toy Story Land!",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/hollywood-studios/toy-story-land/toy-story-slinky-dog-ride-16x9.jpg?1573141195343",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/destinations/hollywood-studios/toy-story-land/toy-story-slinky-dog-ride-1x1.jpg?1573141195343",
+    "canFp": true,
+    "land": "Toy Story Land",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory"
+      },
+      "serviceAnimals": {
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "experienceType": {
+        "mobile-playapp-enabled": "PlayApp Enabled WDW/DLR"
+      },
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair-then-vehicle": "Must transfer to standard wheelchair, and then to ride vehicle"
+      },
+      "thrillFactor": {
+        "thrill-rides": "Thrill Ride",
+        "small-drops": "Small Drops"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "new": "What's New",
+        "play-disney-parks": "Play Disney Parks"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "38-inches-97-cm-or-taller": "38” (97cm) or taller"
+      }
+    }
+  },
+  "19263735;entityType=Attraction": {
+    "name": "Millennium Falcon: Smugglers Run",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Fly the <em>Millennium Falcon</em> on a thrilling interactive smuggling mission.<p><strong>Take Control of the Fastest Ship in the Galaxy</strong><br /> Ride in the famous cockpit of the <em>Millennium Falcon</em> on a daring flight—whether you’re a pilot, engineer or gunner, every role is crucial. The engines rumble as the <em>Millennium Falcon</em> blasts off, pushing you and your crew back into your seats when you jump into hyperspace towards adventure. Along the way you’ll face danger at every turn. Will your mission succeed or fail? It’s up to you—find out if you have what it takes to outmaneuver the odds aboard the <em>Millennium Falcon</em>.</p><p><strong>On-the-Job Training Provided</strong><br /> Never flown a starship before? Hondo Ohnaka is looking for discreet flight crews to deliver a backlog of hard-to-find items to particular clientele—no experience necessary!</p><p><strong>Know Before You Go</strong></p><p><a href=\"https://disneyworld.disney.go.com/destinations/hollywood-studios/star-wars-galaxys-edge/#drawer-card-9-2\">Learn important information about planning your visit to <em>Star Wars</em>: Galaxy’s Edge</a></p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/attractions/disneyland/millennium-falcon-smugglers-run/smugglers-run-interior-16x9.jpg?1572625358760",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disneyland/attractions/disneyland/millennium-falcon-smugglers-run/smugglers-run-interior-1x1.jpg?1572625358761",
+    "canFp": false,
+    "land": "Star Wars: Galaxy's Edge",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "physicalConsiderations": {
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "experienceType": {
+        "mobile-playapp-enabled": "PlayApp Enabled WDW/DLR"
+      },
+      "experienceQueue": {
+        "VQ": "VQ"
+      },
+      "mobilityDisabilities": {
+        "transfer-from-wheelchair-ecv": "Must Transfer from Wheelchair/ECV"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "handheld-captioning": "Handheld Captioning",
+        "assistive-listening": "Assistive Listening"
+      },
+      "thrillFactor": {
+        "thrill-rides": "Thrill Ride",
+        "small-drops": "Small Drops",
+        "dark": "Dark",
+        "loud": "Loud"
+      },
+      "interests": {
+        "star-wars-entertainment": "Star Wars"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "38-inches-97-cm-or-taller": "38” (97cm) or taller"
+      }
+    }
+  },
+  "19152250;entityType=Entertainment": {
+    "name": "Meet Mike and Sulley at Walt Disney Presents",
+    "type": "Entertainment",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Join these “beast friends forever” for photos, hugs and a laugh or two.<p><strong>It’ll Be a Scream – the Fun Kind!</strong></p><p>Get ready for a warm and wild welcome as you step inside the world of <em>Monsters, Inc</em>. to meet, greet and pal around with Mike Wazowski and James P. “Sulley” Sullivan.</p><p>For a monster, Mike’s a loyal and devoted friend—but keep an eye out for his wise-cracking, playful side. And don’t let Sulley’s horns, claws and humongous size fool you—he’s got a soft spot for humans.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/entertainment/hollywood-studios/character-meet-mike-sulley/mosters-inc-characters-16x9.jpg?1569897965108",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/hollywood-studios/character-meet-mike-sulley/mosters-inc-characters-1x1.jpg?1569897965108",
+    "canFp": false,
+    "land": "Animation Courtyard",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "entertainmentType": {
+        "character-experiences": "Character Experiences"
+      },
+      "interests": {
+        "pixar-pals-entertainments": "Pixar Pals"
+      },
+      "age": {
+        "kids": "Kids",
+        "preschoolers": "Preschoolers"
+      }
+    }
+  },
+  "80010218;entityType=Attraction": {
+    "name": "The Twilight Zone Tower of Terror™",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Hurtle up and down into the Twilight Zone aboard a haunted elevator ride. <p><strong>Disney PhotoPass</strong><br /> Disney PhotoPass is available at this attraction to capture your picture. View your photos with this app and download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/the-twilight-zone-tower-of-terror/twilight-zone-tower-of-terror-00.jpg?1551220276986",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/the-twilight-zone-tower-of-terror/twilight-zone-tower-of-terror-00-sq.jpg?1551220276987",
+    "canFp": true,
+    "land": "Sunset Boulevard",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory",
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "no-service-animals": "Not Permitted",
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair-then-vehicle": "Must transfer to standard wheelchair, and then to ride vehicle"
+      },
+      "hearingandVisualDisability": {
+        "video-captioning": "Video Captioning",
+        "translation-devices": "Language Translation Devices"
+      },
+      "thrillFactor": {
+        "thrill-rides": "Thrill Ride",
+        "big-drops": "Big Drops",
+        "dark": "Dark",
+        "scary": "Scary"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "indoor-attractions": "Indoor"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "40-inches-102-cm-or-taller": "40” (102cm) or taller"
+      }
+    }
+  },
+  "80010182;entityType=Attraction": {
+    "name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Race through the darkened freeways of Los Angeles in a super-stretch limo to the rockin' tunes of Aerosmith.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/rock-n-roller-coaster-starring-aerosmith/rock-and-roller-coaster-starring-aerosmith-00.jpg?1551222092092",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/hollywood-studios/rock-n-roller-coaster-starring-aerosmith/rock-and-roller-coaster-starring-aerosmith-00-sq.jpg?1551222092092",
+    "canFp": true,
+    "land": "Sunset Boulevard",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "physicalConsiderations": {
+        "expectant-mothers": "Expectant Mothers Advisory",
+        "health-concerns": "Health Advisory"
+      },
+      "serviceAnimals": {
+        "no-service-animals": "Not Permitted",
+        "not-permitted-service-animals": "Due to the nature of the experience, service animals are not permitted on this attraction."
+      },
+      "mobilityDisabilities": {
+        "transfer-to-wheelchair-then-vehicle": "Must transfer to standard wheelchair, and then to ride vehicle"
+      },
+      "thrillFactor": {
+        "thrill-rides": "Thrill Ride",
+        "big-drops": "Big Drops",
+        "loud": "Loud"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "indoor-attractions": "Indoor"
+      },
+      "age": {
+        "kids": "Kids",
+        "adults": "Adults",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "48-inches-122-cm-or-taller": "48\" (122cm) or taller"
+      }
+    }
+  },
+  "18368386;entityType=Entertainment": {
+    "name": "Mickey and Minnie Starring in Red Carpet Dreams",
+    "type": "Entertainment",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "This classy couple is destined to see their names in lights—and sign autographs for adoring fans like you!<p><strong>Disney Photopass</strong><br /> Disney PhotoPass is available at this experience to capture your picture. View your photos with this app and download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/entertainment/hollywood-studios/character-meet-mickey-minnie-red-carpet/red-carpet-mickey-hero-16x9.jpg?1575426738981",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/hollywood-studios/character-meet-mickey-minnie-red-carpet/red-carpet-mickey-hero-1x1.jpg?1575426738981",
+    "canFp": false,
+    "land": "Commissary Lane",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "entertainmentType": {
+        "character-experiences": "Character Experiences"
+      },
+      "interests": {
+        "classic-characters-entertainments": "Classic Characters",
+        "mickey-friends-entertainments": "Mickey & Friends"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      }
+    }
+  }
+}
