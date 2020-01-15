@@ -1006,5 +1006,83 @@
         "any-height": "Any Height"
       }
     }
+  },
+  "80010224;entityType=Attraction": {
+    "name": "Tomorrowland Transit Authority PeopleMover",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Embark on a 10-minute tour of Tomorrowland aboard this emission-free mass transit system of the future.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/tomorrowland-transit-authority-peoplemover/tomorrowland-transit-authority-peoplemover-00.jpg?1547770351740",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/tomorrowland-transit-authority-peoplemover/tomorrowland-transit-authority-peoplemover-00-sq.jpg?1547770351740",
+    "canFp": false,
+    "land": "Tomorrowland",
+    "parkId": "MK",
+    "park": "Magic Kingdom Park",
+    "properties": {
+      "mobilityDisabilities": {
+        "ambulatory": "Must Be Ambulatory"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "handheld-captioning": "Handheld Captioning",
+        "translation-devices": "Language Translation Devices"
+      },
+      "thrillFactor": {
+        "slow-rides": "Slow Rides"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "80010153;entityType=Attraction": {
+    "name": "Jungle Cruise",
+    "type": "Attraction",
+    "lat": 0.0,
+    "long": 0.0,
+    "description": "Chart a course for high adventure on a scenic and comedic boat tour of exotic rivers across Asia, Africa and South America. During the holiday season, the beloved Jungle Cruise experience is transformed into the Jingle Cruise—for a festive-yet-familiar adventure from stem to stern!<p><strong>FastPass+ Service Offered</strong><br /> Be sure to make your FastPass+ selections early so you can skip the standby line for this beloved attraction.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/jungle-cruise/jingle-cruise-10.jpg?1572902044749",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/jungle-cruise/jingle-cruise-10-sq.jpg?1572902044749",
+    "canFp": true,
+    "land": "Adventureland",
+    "parkId": "MK",
+    "park": "Magic Kingdom Park",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "hearingandVisualDisability": {
+        "sign-language": "Sign Language",
+        "assistive-listening": "Assistive Listening",
+        "translation-devices": "Language Translation Devices"
+      },
+      "thrillFactor": {
+        "slow-rides": "Slow Rides"
+      },
+      "interests": {
+        "fastpass-plus": "FastPass+",
+        "classic": "Classics"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
   }
 }
