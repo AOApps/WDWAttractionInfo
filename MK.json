@@ -821,9 +821,9 @@
     "type": "Attraction",
     "lat": 28.4199638504,
     "long": -81.5846422864,
-    "description": "Race through a haunted gold-mining town aboard a rollicking runaway mine train.",
-    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-mountain-railroad-00.jpg?1551134357673",
-    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-mountain-railroad-00-sq.jpg?1551134357674",
+    "description": "Race through a haunted gold-mining town aboard a rollicking runaway mine train.<p>From May 4 through May 21, 2020, Big Thunder Mountain Railroad will be closed for refurbishment. Please check back here for updates.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-mountain-railroad-00.jpg?1579289377615",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/big-thunder-mountain-railroad/big-thunder-mountain-railroad-00-sq.jpg?1579289377616",
     "canFp": true,
     "land": "Frontierland",
     "parkId": "MK",
@@ -1074,6 +1074,47 @@
       },
       "age": {
         "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers",
+        "teens": "Teens",
+        "tweens": "Tweens"
+      },
+      "height": {
+        "any-height": "Any Height"
+      }
+    }
+  },
+  "80010232;entityType=Attraction": {
+    "name": "Walt Disney's Carousel of Progress",
+    "type": "Attraction",
+    "lat": 28.4180310951,
+    "long": -81.5790083064,
+    "description": "Travel through the 20th century and marvel at the evolution of technology during this classic Audio-Animatronics show.",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/walt-disneys-carousel-of-progress/walt-disney-carousel-of-progress-00.jpg?1555974106529",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/walt-disneys-carousel-of-progress/walt-disney-carousel-of-progress-00-sq.jpg?1555974106529",
+    "canFp": false,
+    "land": "Tomorrowland",
+    "parkId": "MK",
+    "park": "Magic Kingdom Park",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "hearingandVisualDisability": {
+        "audio-description": "Audio Description",
+        "video-captioning": "Video Captioning",
+        "handheld-captioning": "Handheld Captioning",
+        "assistive-listening": "Assistive Listening"
+      },
+      "thrillFactor": {
+        "slow-rides": "Slow Rides"
+      },
+      "interests": {
+        "classic": "Classics",
+        "indoor-attractions": "Indoor"
+      },
+      "age": {
         "all-ages": "All Ages",
         "adults": "Adults",
         "preschoolers": "Preschoolers",
