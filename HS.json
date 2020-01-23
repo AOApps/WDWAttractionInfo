@@ -334,9 +334,9 @@
     "lat": 28.353889,
     "long": -81.561689,
     "description": "Fly the <em>Millennium Falcon</em> on a thrilling interactive smuggling mission.<p><strong>Take Control of the Fastest Ship in the Galaxy</strong><br /> Ride in the famous cockpit of the <em>Millennium Falcon</em> on a daring flight—whether you’re a pilot, engineer or gunner, every role is crucial. The engines rumble as the <em>Millennium Falcon</em> blasts off, pushing you and your crew back into your seats when you jump into hyperspace towards adventure. Along the way you’ll face danger at every turn. Will your mission succeed or fail? It’s up to you—find out if you have what it takes to outmaneuver the odds aboard the <em>Millennium Falcon</em>.</p><p><strong>On-the-Job Training Provided</strong><br /> Never flown a starship before? Hondo Ohnaka is looking for discreet flight crews to deliver a backlog of hard-to-find items to particular clientele—no experience necessary!</p><p><strong>Know Before You Go</strong></p><p><a href=\"https://disneyworld.disney.go.com/destinations/hollywood-studios/star-wars-galaxys-edge/#drawer-card-9-2\">Learn important information about planning your visit to <em>Star Wars</em>: Galaxy’s Edge</a></p>",
-    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/attractions/disneyland/millennium-falcon-smugglers-run/smugglers-run-interior-16x9.jpg?1572625358760",
-    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disneyland/attractions/disneyland/millennium-falcon-smugglers-run/smugglers-run-interior-1x1.jpg?1572625358761",
-    "canFp": false,
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/attractions/disneyland/millennium-falcon-smugglers-run/smugglers-run-interior-16x9.jpg?1579787313245",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disneyland/attractions/disneyland/millennium-falcon-smugglers-run/smugglers-run-interior-1x1.jpg?1579787313245",
+    "canFp": true,
     "land": "Star Wars: Galaxy's Edge",
     "parkId": "HS",
     "park": "Disney's Hollywood Studios",
@@ -368,6 +368,7 @@
         "loud": "Loud"
       },
       "interests": {
+        "fastpass-plus": "FastPass+",
         "star-wars-entertainment": "Star Wars"
       },
       "age": {
@@ -384,8 +385,8 @@
   "19152250;entityType=Entertainment": {
     "name": "Meet Mike and Sulley at Walt Disney Presents",
     "type": "Entertainment",
-    "lat": 0.0,
-    "long": 0.0,
+    "lat": 28.356865,
+    "long": -81.560984,
     "description": "Join these “beast friends forever” for photos, hugs and a laugh or two.<p><strong>It’ll Be a Scream – the Fun Kind!</strong></p><p>Get ready for a warm and wild welcome as you step inside the world of <em>Monsters, Inc</em>. to meet, greet and pal around with Mike Wazowski and James P. “Sulley” Sullivan.</p><p>For a monster, Mike’s a loyal and devoted friend—but keep an eye out for his wise-cracking, playful side. And don’t let Sulley’s horns, claws and humongous size fool you—he’s got a soft spot for humans.</p>",
     "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/entertainment/hollywood-studios/character-meet-mike-sulley/mosters-inc-characters-16x9.jpg?1569897965108",
     "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/hollywood-studios/character-meet-mike-sulley/mosters-inc-characters-1x1.jpg?1569897965108",
