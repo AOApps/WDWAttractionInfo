@@ -369,7 +369,8 @@
       },
       "interests": {
         "fastpass-plus": "FastPass+",
-        "star-wars-entertainment": "Star Wars"
+        "star-wars-entertainment": "Star Wars",
+        "star-wars-attractions": "Star Wars"
       },
       "age": {
         "kids": "Kids",
@@ -533,6 +534,38 @@
         "preschoolers": "Preschoolers",
         "teens": "Teens",
         "tweens": "Tweens"
+      }
+    }
+  },
+  "18189394;entityType=Entertainment": {
+    "name": "Star Wars Launch Bay: Meet Chewbacca",
+    "type": "Entertainment",
+    "lat": 28.35796,
+    "long": -81.560938,
+    "description": "Get ready for a rebel rendezvous with this legendary Wookiee warrior.<p><strong>Disney Photopass</strong><br /> Disney PhotoPass Photographers are available at this experience to capture your special moment! You can view your photos with this app and then download them when you purchase Memory Maker.</p>",
+    "bigIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/hollywood-studios/character-meet-chewbacca-star-wars-launch-bay/chewbacca-family-outstretched-arms-photopass-16x9.jpg?1571785642017",
+    "smallIm": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/hollywood-studios/character-meet-chewbacca-star-wars-launch-bay/chewbacca-family-outstretched-arms-photopass-1x1.jpg?1571785642018",
+    "canFp": false,
+    "land": "Animation Courtyard",
+    "parkId": "HS",
+    "park": "Disney's Hollywood Studios",
+    "properties": {
+      "mobilityDisabilities": {
+        "wheelchair-access": "May Remain in Wheelchair/ECV"
+      },
+      "entertainmentType": {
+        "character-experiences": "Character Experiences"
+      },
+      "interests": {
+        "indoor": "Indoor",
+        "classic-characters-entertainments": "Classic Characters",
+        "star-wars-entertainment": "Star Wars"
+      },
+      "age": {
+        "kids": "Kids",
+        "all-ages": "All Ages",
+        "adults": "Adults",
+        "preschoolers": "Preschoolers"
       }
     }
   }
